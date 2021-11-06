@@ -19,12 +19,12 @@
 ---
 
 # 구현 기능 및 코드
-1. [Encapsulation and Information Hiding](#1.-encapsulation-and-information-hiding)
-2. [Alert](#2.-alert)
-3. [Modality](#3.-modality)
-4. [Stepper](#4.-stepper)
-5. [Pass Data Between Scenes Using Segues](#5.-pass-data-between-scenes-using-segues)
-6. [Auto Layout](#6.-auto-layout)
+1. [Encapsulation and Information Hiding](##1.-encapsulation-and-information-hiding)
+2. [Alert](##2.-alert)
+3. [Modality](##3.-modality)
+4. [Stepper](##4.-stepper)
+5. [Pass Data Between Scenes Using Segues](##5.-pass-data-between-scenes-using-segues)
+6. [Auto Layout](##6.-auto-layout)
 
 <details>
 <summary>세부</summary>
